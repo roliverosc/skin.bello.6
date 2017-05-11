@@ -137,7 +137,7 @@
 				<left>900</left>
 				<top>122</top>
 				<visible>!Window.IsActive(script-script.module.kodi65-t9search.xml)</visible>
-		    <include>VisibleHiddenAnimation</include>
+		    <include>VisibleFadeEffect</include>
 				<control type="image">
 					<width>335</width>
 					<height>486</height>
@@ -264,7 +264,7 @@
 				<orientation>horizontal</orientation>
 				<visible>!Window.IsActive(script-script.module.kodi65-t9search.xml)</visible>
 				<visible>IntegerGreaterThan(Window.Property(TotalItems),10)</visible>
-		    <include>VisibleHiddenAnimation</include>
+		    <include>VisibleFadeEffect</include>
 				<control type="image">
 					<width>22</width>
 					<height>22</height>

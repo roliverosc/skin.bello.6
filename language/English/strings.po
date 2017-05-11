@@ -331,7 +331,15 @@ msgctxt "#31107"
 msgid "Simple"
 msgstr ""
 
-#empty strings from id 31108 to 31123
+msgctxt "#31108"
+msgid "System Music Files"
+msgstr ""
+
+msgctxt "#31109"
+msgid "Current Playlist"
+msgstr ""
+
+#empty strings from id 31109 to 31123
 
 msgctxt "#31124"
 msgid "Flashing Lights"
@@ -845,31 +853,12 @@ msgctxt "#31279"
 msgid "Box Office"
 msgstr ""
 
-
-#Playlist Editor labels
 msgctxt "#31280"
-msgid "Open Playlist"
+msgid "Most Popular Movies"
 msgstr ""
 
-msgctxt "#31281"
-msgid "Save Playlist"
-msgstr ""
+#empty strings from id 31281 to 31285
 
-msgctxt "#31282"
-msgid "Close Playlist"
-msgstr ""
-
-msgctxt "#31283"
-msgid "System Music Files"
-msgstr ""
-
-msgctxt "#31284"
-msgid "Current Playlist"
-msgstr ""
-
-msgctxt "#31285"
-msgid "Playlist Options"
-msgstr ""
 
 #empty strings from id 31286 to 31299
 #Video and Music OSD Labels

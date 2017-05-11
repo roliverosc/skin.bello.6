@@ -183,7 +183,7 @@
 			<icon>special://skin/extras/icons/UpdateIMDb.png</icon>
   		<onclick>Dialog.Close(PlayerControls)</onclick>
 			<onclick>RunScript(script.skin.helper.service,action=setskinsetting,setting=IMDBUpdate,header=$LOCALIZE[24069]...)</onclick>
-		  <visible>[System.HasAddon(script.imdbupdate) + System.HasAddon(script.skin.helper.service] + !Skin.HasSetting(QuickNavUpdateIMDbRatingsButton)</visible>
+		  <visible>[System.HasAddon(script.imdbupdate) + System.HasAddon(script.skin.helper.service)] + !Skin.HasSetting(QuickNavUpdateIMDbRatingsButton)</visible>
 	 </item>
 	 <item id="16">
 			<label>$LOCALIZE[589]</label>

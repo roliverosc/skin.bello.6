@@ -101,7 +101,6 @@
 							| Window.IsActive(PictureInfo)
 							| Window.IsActive(SmartPlaylistEditor) 
 							| Window.IsActive(SmartPlaylistRule)
-							| Window.IsActive(Peripherals)
 							| Window.IsActive(PeripheralSettings)
 							| Window.IsActive(script-RSS_Editor.xml) 
         			| Window.IsActive(script-skinshortcuts.xml)
@@ -1572,7 +1571,6 @@
 		<onload condition="Window.IsActive(mediasource)">Dialog.Close(mediasource)</onload>
 		<onload condition="Window.IsActive(contentsettings)">Dialog.Close(contentsettings)</onload>
 		<onload condition="Window.IsActive(peripheralsettings)">Dialog.Close(peripheralsettings)</onload>
-		<onload condition="Window.IsActive(peripherals)">Dialog.Close(peripherals)</onload>
 		<onload condition="Window.IsActive(smartplaylisteditor)">Dialog.Close(smartplaylisteditor)</onload>
 		<onload condition="Window.IsActive(smartplaylistrule)">Dialog.Close(smartplaylistrule)</onload>
 		<onload condition="Window.IsActive(busydialog)">Dialog.Close(busydialog)</onload>
@@ -1580,9 +1578,6 @@
 		<onload condition="Window.IsActive(addonsettings)">Dialog.Close(addonsettings)</onload>
 		<onload condition="Window.IsActive(videoosd)">Dialog.Close(videoosd)</onload>
 		<onload condition="Window.IsActive(musicosd)">Dialog.Close(musicosd)</onload>
-		<onload condition="Window.IsActive(karaokeselector)">Dialog.Close(karaokeselector)</onload>
-		<onload condition="Window.IsActive(karaokelargeselector)">Dialog.Close(karaokelargeselector)</onload>
-		<onload condition="Window.IsActive(karaoke)">Dialog.Close(karaoke)</onload>
 		<onload condition="Window.IsActive(sliderdialog)">Dialog.Close(sliderdialog)</onload>
 		<onload condition="Window.IsActive(selectdialog)">Dialog.Close(selectdialog)</onload>
 		<onload condition="Window.IsActive(DialogSelect.xml)">Dialog.Close(DialogSelect.xml)</onload>

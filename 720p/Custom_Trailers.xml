@@ -206,7 +206,7 @@
 		    <include content="TrailersHeader">
 		      <param name="container_id" value="5100"/>
 		      <param name="provider_icon" value="icons/trakt.png"/>
-		      <param name="provider_name" value="Most Popular Movies (Trakt)"/>
+		      <param name="provider_name" value="$LOCALIZE[31280] (Trakt)"/>
 		      <param name="visible" value="IntegerGreaterThan(Container(5100).NumItems,0)"/>
 		    </include>
 		    <include content="TrailersPanel_Posters">

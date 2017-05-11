@@ -3,7 +3,7 @@
  <defaultcontrol always="true">9</defaultcontrol>
  <controls>
 
- <control type="group">
+	<control type="group">
 	 <animation type="WindowOpen" condition="Window.IsVisible(contentsettings) | Window.IsVisible(okdialog) | Window.IsVisible(progressdialog) | Window.IsVisible(1112) | Window.IsVisible(SubtitleSearch)" reversible="false">
 		<effect type="fade" start="0" end="100" time="0" delay="300" />
 	 </animation>
@@ -123,80 +123,78 @@
 	   </control>
 	  </control>
 
-
-
-      <!-- Buttons Area -->
-		  <control type="group">
-				<left>182</left>
-				<top>532</top>
-    		<control type="image">
-    			<width>919</width>
-    			<height>56</height>
-    		  <texture border="49,0,49,9">thumbs/thumb_border.png</texture>
-    		</control>
-				<control type="grouplist" id="10000">
-					<left>5</left>
-					<top>8</top>
-					<width>909</width>
-					<height>40</height>
-					<itemgap>0</itemgap>
-					<align>left</align>
-					<orientation>horizontal</orientation>
-					<onleft>10000</onleft>
-					<onright>10000</onright>
-					<onup>9000</onup>
-					<ondown>9000</ondown>
-					<control type="button" id="10">
-						<description>Save</description>
-      			<width>147</width>
-      			<height>40</height>
-      			<aligny>top</aligny>
-			      <align>left</align>
-      			<font>FontSize_20</font>
-      			<textwidth>120</textwidth>
-      			<textoffsetx>40</textoffsetx>
-      			<textoffsety>6</textoffsety>
-      			<textcolor>77white</textcolor>
-      			<focusedcolor>white</focusedcolor>
-      			<shadowcolor>99000000</shadowcolor>
-						<texturefocus border="39,3,39,39">dialogs/buttons/save_focus_two.png</texturefocus>
-						<texturenofocus border="39,3,39,39">dialogs/buttons/save_nofocus_two.png</texturenofocus>
-					</control>
-					<control type="button" id="11">
-						<description>Cancel</description>
-      			<width>170</width>
-      			<height>40</height>
-      			<aligny>top</aligny>
-			      <align>left</align>
-      			<font>FontSize_20</font>
-      			<textwidth>120</textwidth>
-      			<textoffsetx>40</textoffsetx>
-      			<textoffsety>6</textoffsety>
-      			<textcolor>77white</textcolor>
-      			<focusedcolor>white</focusedcolor>
-      			<shadowcolor>99000000</shadowcolor>
-						<texturefocus border="39,3,39,39">dialogs/buttons/cancel_focus_two.png</texturefocus>
-						<texturenofocus border="39,3,39,39">dialogs/buttons/cancel_nofocus_two.png</texturenofocus>
-					</control>
-					<control type="button" id="12">
-						<description>Defaults</description>
-      			<width>170</width>
-      			<height>40</height>
-      			<aligny>top</aligny>
-			      <align>left</align>
-      			<font>FontSize_20</font>
-      			<textwidth>120</textwidth>
-      			<textoffsetx>40</textoffsetx>
-      			<textoffsety>6</textoffsety>
-      			<textcolor>77white</textcolor>
-      			<focusedcolor>white</focusedcolor>
-      			<shadowcolor>99000000</shadowcolor>
-						<texturefocus border="39,3,39,39">dialogs/buttons/settings_focus_two.png</texturefocus>
-						<texturenofocus border="39,3,39,39">dialogs/buttons/settings_nofocus_two.png</texturenofocus>
-					  <label>409</label>
-					</control>
+    <!-- Buttons Area -->
+	  <control type="group">
+			<left>182</left>
+			<top>532</top>
+  		<control type="image">
+  			<width>919</width>
+  			<height>56</height>
+  		  <texture border="49,0,49,9">thumbs/thumb_border.png</texture>
+  		</control>
+			<control type="grouplist" id="10000">
+				<left>5</left>
+				<top>8</top>
+				<width>909</width>
+				<height>40</height>
+				<itemgap>0</itemgap>
+				<align>left</align>
+				<orientation>horizontal</orientation>
+				<onleft>10000</onleft>
+				<onright>10000</onright>
+				<onup>9000</onup>
+				<ondown>9000</ondown>
+				<control type="button" id="10">
+					<description>Save</description>
+    			<width>147</width>
+    			<height>40</height>
+    			<aligny>top</aligny>
+		      <align>left</align>
+    			<font>FontSize_20</font>
+    			<textwidth>120</textwidth>
+    			<textoffsetx>40</textoffsetx>
+    			<textoffsety>6</textoffsety>
+    			<textcolor>77white</textcolor>
+    			<focusedcolor>white</focusedcolor>
+    			<shadowcolor>99000000</shadowcolor>
+					<texturefocus border="39,3,39,39">dialogs/buttons/save_focus_two.png</texturefocus>
+					<texturenofocus border="39,3,39,39">dialogs/buttons/save_nofocus_two.png</texturenofocus>
 				</control>
-		  </control>
+				<control type="button" id="11">
+					<description>Cancel</description>
+    			<width>170</width>
+    			<height>40</height>
+    			<aligny>top</aligny>
+		      <align>left</align>
+    			<font>FontSize_20</font>
+    			<textwidth>120</textwidth>
+    			<textoffsetx>40</textoffsetx>
+    			<textoffsety>6</textoffsety>
+    			<textcolor>77white</textcolor>
+    			<focusedcolor>white</focusedcolor>
+    			<shadowcolor>99000000</shadowcolor>
+					<texturefocus border="39,3,39,39">dialogs/buttons/cancel_focus_two.png</texturefocus>
+					<texturenofocus border="39,3,39,39">dialogs/buttons/cancel_nofocus_two.png</texturenofocus>
+				</control>
+				<control type="button" id="12">
+					<description>Defaults</description>
+    			<width>170</width>
+    			<height>40</height>
+    			<aligny>top</aligny>
+		      <align>left</align>
+    			<font>FontSize_20</font>
+    			<textwidth>120</textwidth>
+    			<textoffsetx>40</textoffsetx>
+    			<textoffsety>6</textoffsety>
+    			<textcolor>77white</textcolor>
+    			<focusedcolor>white</focusedcolor>
+    			<shadowcolor>99000000</shadowcolor>
+					<texturefocus border="39,3,39,39">dialogs/buttons/settings_focus_two.png</texturefocus>
+					<texturenofocus border="39,3,39,39">dialogs/buttons/settings_nofocus_two.png</texturenofocus>
+				  <label>409</label>
+				</control>
+			</control>
+	  </control>
 
 	 </control>
   </control>
