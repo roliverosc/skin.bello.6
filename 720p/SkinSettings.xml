@@ -574,38 +574,38 @@
 					<ondown>5800</ondown>
 					<control type="button" id="5801">
 	          <include>SettingsButton</include>
-						<label>script.skinshortcuts</label>
+						<label>script.skinshortcuts [COLOR=55white]($LOCALIZE[31142])[/COLOR]</label>
 						<label2>$VAR[StatusSkinShortcuts]</label2>
 						<onclick condition="System.HasAddon(script.skinshortcuts)">Addon.OpenSettings(script.skinshortcuts)</onclick>
 						<onclick condition="!System.HasAddon(script.skinshortcuts)">InstallAddon(script.skinshortcuts)</onclick>
 					</control>
 					<control type="button" id="5802">
 	          <include>SettingsButton</include>
-						<label>script.extendedinfo</label>
+						<label>script.extendedinfo [COLOR=55white]($LOCALIZE[31142])[/COLOR]</label>
 						<label2>$VAR[StatusExtendedInfo]</label2>
 						<onclick condition="System.HasAddon(script.extendedinfo)">Addon.OpenSettings(script.extendedinfo)</onclick>
 						<onclick condition="!System.HasAddon(script.extendedinfo)">InstallAddon(plugin://script.extendedinfo)</onclick>
 					</control>
 					<control type="button" id="5803">
 						<include>SettingsButton</include>
-						<label>script.skin.helper.service</label>
+						<label>script.skin.helper.service [COLOR=55white]($LOCALIZE[31142])[/COLOR]</label>
 						<label2>$VAR[StatusSkinHelperService]</label2>
 						<onclick condition="System.HasAddon(script.skin.helper.service)">Addon.OpenSettings(script.skin.helper.service)</onclick>
 						<onclick condition="!System.HasAddon(script.skin.helper.service)">InstallAddon(script.skin.helper.service)</onclick>
 					</control>
 					<control type="button" id="5804">
 						<include>SettingsButton</include>
-						<label>script.skin.helper.widgets</label>
-						<label2>$VAR[StatusSkinHelperWidgets]</label2>
-						<onclick condition="System.HasAddon(script.skin.helper.widgets)">Addon.OpenSettings(script.skin.helper.widgets)</onclick>
-						<onclick condition="!System.HasAddon(script.skin.helper.widgets)">InstallAddon(script.skin.helper.widgets)</onclick>
-					</control>
-					<control type="button" id="5805">
-						<include>SettingsButton</include>
-						<label>service.library.data.provider</label>
+						<label>service.library.data.provider [COLOR=55white]($LOCALIZE[31142])[/COLOR]</label>
 						<label2>$VAR[StatusLibraryDataProvider]</label2>
 						<onclick condition="System.HasAddon(service.library.data.provider)">Addon.OpenSettings(service.library.data.provider)</onclick>
 						<onclick condition="!System.HasAddon(service.library.data.provider)">InstallAddon(service.library.data.provider)</onclick>
+					</control>
+					<control type="button" id="5805">
+						<include>SettingsButton</include>
+						<label>script.skin.helper.widgets [COLOR=55white]($LOCALIZE[31142])[/COLOR]</label>
+						<label2>$VAR[StatusSkinHelperWidgets]</label2>
+						<onclick condition="System.HasAddon(script.skin.helper.widgets)">Addon.OpenSettings(script.skin.helper.widgets)</onclick>
+						<onclick condition="!System.HasAddon(script.skin.helper.widgets)">InstallAddon(script.skin.helper.widgets)</onclick>
 					</control>
 					<control type="button" id="5806">
 						<include>SettingsButton</include>
@@ -642,7 +642,6 @@
 						<onclick condition="System.HasAddon(script.globalsearch)">Addon.OpenSettings(script.globalsearch)</onclick>
 						<onclick condition="!System.HasAddon(script.globalsearch)">InstallAddon(script.globalsearch)</onclick>
 					</control>
-<!--
 					<control type="button" id="5811">
 						<include>SettingsButton</include>
 						<label>script.module.t9.search</label>
@@ -650,7 +649,6 @@
 						<onclick condition="System.HasAddon(script.module.t9.search)">Addon.OpenSettings(script.module.t9.search)</onclick>
 						<onclick condition="!System.HasAddon(script.module.t9.search)">InstallAddon(script.module.t9.search)</onclick>
 					</control>
--->
 					<control type="button" id="5812">
 						<include>SettingsButton</include>
 						<label>plugin.program.autocompletion</label>

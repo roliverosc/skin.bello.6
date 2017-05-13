@@ -413,7 +413,7 @@ msgid "Lyrics Add-on"
 msgstr ""
 
 msgctxt "#31142"
-msgid ""
+msgid "Required Add-on"
 msgstr ""
 
 msgctxt "#31143"

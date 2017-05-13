@@ -1184,12 +1184,10 @@
 		<value condition="System.HasAddon(script.globalsearch)">$INFO[System.AddonVersion(script.globalsearch),v.]</value>
 		<value>$LOCALIZE[31017]</value>
 	</variable>
-<!--
 	<variable name="StatusT9Search">
 		<value condition="System.HasAddon(script.module.t9.search)">$INFO[System.AddonVersion(script.module.t9.search),v.]</value>
 		<value>$LOCALIZE[31017]</value>
 	</variable>
--->
 	<variable name="StatusAutoCompletion">
 		<value condition="System.HasAddon(plugin.program.autocompletion)">$INFO[System.AddonVersion(plugin.program.autocompletion),v.]</value>
 		<value>$LOCALIZE[31017]</value>
