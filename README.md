@@ -81,6 +81,9 @@ To get the most out of Bello 6 the following add-ons are required. These add-ons
 **Where is the X or Y feature from the old Bello? Can you add it back?**
 <br>Well...if is not there then mostly i've removed it either because i didn't like it anymore, or because wasn't fit with the new style of Bello 6. And no... i wont add it back.
 
+**It's been days that a i've posted a question/request/suggestion in the forum and still i don't have any answer. Are you ignoring me ?**
+<br>Maybe yes, maybe not. I am pretty busy ATM with other stuff outside of Kodi so any help or explanations they might be delay. So if you couldn't get any help from other users please be patient!. Also any requests or suggestions whom i don't agree or like will be ignored. Sorry guys, but i don't have the time to answer no & why to all of these stuff.
+
 **Where i can find support for this ?**
 <br>[Bello forum at Kodi.tv community.](http://forum.kodi.tv/forumdisplay.php?fid=198)
 
