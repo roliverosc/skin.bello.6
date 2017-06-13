@@ -23,7 +23,7 @@
    Custom_DialogOK.xml							id=1110
    Custom_DialogVisualization.xml		id=1112
    Custom_Colours.xml								id=1113
-   Custom_StartExit.xml									id=1114
+   Custom_StartExit.xml							id=1114
    Custom_Reset.xml									id=1117
    Custom_ManageDialog.xml					id=1118
    Custom_CustomItems.xml						id=1119
@@ -428,7 +428,7 @@
 			<include>VisibleHiddenSlideAnimation</include>
       <include>KaiToastSlideAnimations</include>
       <include>ScanSlideAnimations</include>
-		  <visible>Player.HasMedia + !Window.IsActive(PlayerControls) + !Window.IsActive(script-globalsearch-main.xml) + !String.Contains(Window(Videos).Property(PlayingBackgroundMedia))</visible>
+		  <visible>Player.HasMedia + !Window.IsActive(PlayerControls) + !Window.IsActive(script-globalsearch-main.xml)</visible>
 	    <animation type="WindowOpen" reversible="false" condition="Window.Previous(Home) | Window.Previous(fullscreenvideo) | Window.Previous(visualisation) | Window.Previous(screencalibration) | Window.Previous(screensaver) | Window.Previous(slideshow)">
 	      <include>CommonVisibleEffect</include>
 	    </animation>

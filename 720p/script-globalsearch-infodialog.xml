@@ -14,7 +14,21 @@
 		
 		<control type="group">
 			<include>ShutdownMenuAnimation</include>
-			<include>InfoDialogs_OpenCloseAnimation</include>
+			<animation type="WindowOpen" reversible="false">
+			  <include>CommonOpenEffect</include>
+			</animation>
+			<animation type="Visible" reversible="false">
+			  <include>CommonVisibleEffect</include>
+			</animation>
+			<animation type="WindowClose" condition="!Window.IsActive(shutdownmenu) + !Window.IsActive(favourites) + !Window.IsActive(playercontrols)" reversible="false">
+			  <include>CommonCloseEffect</include>
+			</animation>
+			<animation type="WindowClose" condition="Window.IsActive(shutdownmenu) | Window.IsActive(favourites) | Window.IsActive(playercontrols)" reversible="false">
+			  <include>CommonHiddenEffect</include>
+			</animation>
+			<animation type="Hidden" reversible="false">
+			  <include>CommonHiddenEffect</include>
+			</animation>
 			<visible>!Window.IsActive(PlayerControls) + !Window.IsActive(Favourites)</visible>
 
 			<!-- ============= -->
@@ -964,7 +978,21 @@
 			<left>45</left>
 			<top>25</top>
 			<include>ShutdownMenuAnimation</include>
-			<include>InfoDialogs_OpenCloseAnimation</include>
+			<animation type="WindowOpen" reversible="false">
+			  <include>CommonOpenEffect</include>
+			</animation>
+			<animation type="Visible" reversible="false">
+			  <include>CommonVisibleEffect</include>
+			</animation>
+			<animation type="WindowClose" condition="!Window.IsActive(shutdownmenu) + !Window.IsActive(favourites) + !Window.IsActive(playercontrols)" reversible="false">
+			  <include>CommonCloseEffect</include>
+			</animation>
+			<animation type="WindowClose" condition="Window.IsActive(shutdownmenu) | Window.IsActive(favourites) | Window.IsActive(playercontrols)" reversible="false">
+			  <include>CommonHiddenEffect</include>
+			</animation>
+			<animation type="Hidden" reversible="false">
+			  <include>CommonHiddenEffect</include>
+			</animation>
 			<visible>!Window.IsActive(PlayerControls) + !Window.IsActive(Favourites)</visible>
 			<!-- NumberRating -->
 			<control type="grouplist">

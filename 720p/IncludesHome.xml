@@ -1001,7 +1001,7 @@
 				<include>VisibleHiddenSlideAnimation</include>
 	      <include>KaiToastSlideAnimations</include>
 	      <include>ScanSlideAnimations</include>
-			  <visible>Player.HasMedia + !Window.IsActive(PlayerControls) + !Window.IsActive(script-globalsearch-main.xml) + !String.Contains(Window(Videos).Property(PlayingBackgroundMedia))</visible>
+			  <visible>Player.HasMedia + !Window.IsActive(PlayerControls) + !Window.IsActive(script-globalsearch-main.xml)</visible>
   			<left>495</left>
   			<top>640</top>
   			<height>60</height>
