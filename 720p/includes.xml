@@ -1160,6 +1160,10 @@
 		<value condition="System.HasAddon(script.skin.helper.widgets)">$INFO[System.AddonVersion(script.skin.helper.widgets),v.]</value>
 		<value>$LOCALIZE[31017]</value>
 	</variable>
+	<variable name="StatusSkinHelperBackgrounds">
+		<value condition="System.HasAddon(script.skin.helper.backgrounds)">$INFO[System.AddonVersion(script.skin.helper.backgrounds),v.]</value>
+		<value>$LOCALIZE[31017]</value>
+	</variable>
 	<variable name="StatusLibraryDataProvider">
 		<value condition="System.HasAddon(service.library.data.provider)">$INFO[System.AddonVersion(service.library.data.provider),v.]</value>
 		<value>$LOCALIZE[31017]</value>

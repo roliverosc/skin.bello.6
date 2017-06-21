@@ -43,6 +43,7 @@ These Add-ons are required by Bello so the skin to work properly. The versions n
 To get the most out of Bello 6 the following add-ons are required. These add-ons should be installed automatically when you install the skin. If they are not, please install manually using the links below. Certain skin features will not be available if one or more of these add-ons are not installed on your system.
 
 <ul>
+<li><a href="http://mirrors.xbmc.org/addons/krypton/script.skin.helper.backgrounds/">script.skin.helper.backgrounds</a></li>
 <li><a href="http://mirrors.xbmc.org/addons/krypton/service.smartish.widgets/">service.smartish.widgets</a></li>
 <li><a href="http://mirrors.xbmc.org/addons/krypton/script.tv.show.next.aired/">script.tv.show.next.aired</a></li>
 <li><a href="http://mirrors.xbmc.org/addons/krypton/script.artwork.downloader/">script.artwork.downloader</a></li>
