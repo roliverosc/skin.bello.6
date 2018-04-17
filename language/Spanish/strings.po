@@ -178,7 +178,7 @@ msgstr "Creador"
 
 msgctxt "#31042"
 msgid "Welcome to Bello!"
-msgstr "Bievenido a Bello!"
+msgstr "Bienvenido a Bello!"
 
 msgctxt "#31043"
 msgid "Thank you for using Bello!"
