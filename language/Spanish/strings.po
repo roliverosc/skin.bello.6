@@ -30,7 +30,7 @@ msgstr "Series TV"
 
 msgctxt "#31003"
 msgid "Aired"
-msgstr "Estrenado"
+msgstr "Emitido"
 
 msgctxt "#31004"
 msgid "Premiere"
@@ -62,7 +62,7 @@ msgstr "-"
 
 msgctxt "#31011"
 msgid "On"
-msgstr "Encendido"
+msgstr "Activado"
 
 msgctxt "#31012"
 msgid "Off"
@@ -70,7 +70,7 @@ msgstr "Desactivado"
 
 msgctxt "#31013"
 msgid "Enable Home Menu Animation"
-msgstr "Activar animación del menú principal"
+msgstr "Habilitar animación de menú de inicio"
 
 msgctxt "#31016"
 msgid "File Manager"
@@ -82,7 +82,7 @@ msgstr "Selector de canción de karaoke"
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr "Avances de películas"
+msgstr ""
 
 msgctxt "#31019"
 msgid "Search for movies directed by"
@@ -94,7 +94,7 @@ msgstr "Encontrados"
 
 msgctxt "#31021"
 msgid "Music Library"
-msgstr "Fonoteca"
+msgstr "Biblioteca de Música"
 
 msgctxt "#31022"
 msgid "Music Files"
@@ -130,11 +130,11 @@ msgstr "Mover a la derecha"
 
 msgctxt "#31030"
 msgid "AM"
-msgstr "AM"
+msgstr ""
 
 msgctxt "#31031"
 msgid "PM"
-msgstr "PM"
+msgstr ""
 
 msgctxt "#31032"
 msgid "User Login"
@@ -162,7 +162,7 @@ msgstr "Cambiar Valoración"
 
 msgctxt "#31038"
 msgid "Esc"
-msgstr "Esc"
+msgstr ""
 
 msgctxt "#31039"
 msgid "IP Address"
@@ -178,11 +178,11 @@ msgstr "Creador"
 
 msgctxt "#31042"
 msgid "Welcome to Bello!"
-msgstr "Bienvenido a Bello!"
+msgstr "¡Bienvenido a Bello!"
 
 msgctxt "#31043"
 msgid "Thank you for using Bello!"
-msgstr "Gracias por usar Bello!"
+msgstr "¡Gracias por usar Bello!"
 msgctxt "#31044"
 msgid "Starting"
 msgstr "Comenzando"
@@ -209,7 +209,7 @@ msgstr "Reiniciando"
 
 msgctxt "#31050"
 msgid "Logging off"
-msgstr "Cerrar la sesión"
+msgstr "Cerrar sesión"
 
 
 #empty strings from id 31051 to 31079
@@ -229,7 +229,7 @@ msgstr "Muro 3D"
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr "Icons"
+msgstr "Muro"
 
 msgctxt "#31084"
 msgid "Posters"
@@ -245,7 +245,7 @@ msgstr "Lista de banners"
 
 msgctxt "#31087"
 msgid "VideoWall Fanart"
-msgstr "Muro de Fanart"
+msgstr ""
 
 msgctxt "#31088"
 msgid "List Wall"
@@ -253,7 +253,7 @@ msgstr "Muro de Listas"
 
 msgctxt "#31089"
 msgid "Showtime"
-msgstr "Horarios"
+msgstr ""
 
 msgctxt "#31090"
 msgid "Tiles"
@@ -298,11 +298,11 @@ msgstr "Mostrar Miniaturas Grandes"
 
 msgctxt "#31100"
 msgid "Thumb Glow"
-msgstr ""
+msgstr "Luz para Miniaturas"
 
 msgctxt "#31101"
 msgid "Enable Autocompletion on K/B [COLOR=55white](Requires plugin.program.autocompletion)[/COLOR]"
-msgstr ""
+msgstr "Habilitar autocompletado para teclado K/B [COLOR=55white](Requiere plugin.program.autocompletion)[/COLOR]"
 
 msgctxt "#31101"
 msgid "Show Weather Info"
@@ -318,15 +318,15 @@ msgstr "Ocultar información de música en reproducción"
 
 msgctxt "#31104"
 msgid "FullScreen Music Style"
-msgstr "Estilo de música a pantalla completa"
+msgstr "Estilo para música a pantalla completa"
 
 msgctxt "#31105"
 msgid "FullScreen Video Style"
-msgstr "Estilo de video a pantalla completa"
+msgstr "Estilo para video a pantalla completa"
 
 msgctxt "#31106"
 msgid "SeekBar Style"
-msgstr "Estilo barra de búsqueda"
+msgstr "Estilo barra de progreso"
 
 msgctxt "#31107"
 msgid "Simple"
@@ -334,7 +334,7 @@ msgstr ""
 
 msgctxt "#31108"
 msgid "System Music Files"
-msgstr "Archivos de música del sistema"
+msgstr "Archivos de música de sistema"
 
 msgctxt "#31109"
 msgid "Current Playlist"
@@ -344,7 +344,7 @@ msgstr "Lista de reproducción actual"
 
 msgctxt "#31124"
 msgid "Flashing Lights"
-msgstr "Luces flash"
+msgstr "Luces parpadeantes"
 
 msgctxt "#31125"
 msgid "Edit Info"
@@ -364,15 +364,15 @@ msgstr "Colores de Fondo"
 
 msgctxt "#31129"
 msgid "Reset All Colours to Default"
-msgstr "Restablecer todos los colores a predeterminados"
+msgstr "Restablecer todos los colores a por defecto"
 
 msgctxt "#31130"
 msgid "Disable Fanart in all sections"
-msgstr "Desactivar Fanart en todas las secciones"
+msgstr "Inhabilitar Fanart en todas las secciones"
 
 msgctxt "#31131"
 msgid "Show Only on Home Screen"
-msgstr "Mostrar sólo en Pantalla Principal"
+msgstr "Mostrar sólo en pantalla de inicio"
 
 msgctxt "#31132"
 msgid "Hide Background Video"
@@ -396,7 +396,7 @@ msgstr "Multi-imagen"
 
 msgctxt "#31137"
 msgid "Enable Notifications"
-msgstr "Activar Notificaciones"
+msgstr "Habilitar notificaciones"
 
 msgctxt "#31138"
 msgid "Extra Art [COLOR=55white](Requires script.artwork.downloader)[/COLOR]"
@@ -404,11 +404,11 @@ msgstr "Extra Art [COLOR=55white](Necesario script.artwork.downloader)[/COLOR]"
 
 msgctxt "#31139"
 msgid "Enable Add-ons Notifications"
-msgstr "Activar notificaciones de complementos"
+msgstr "Habilitar notificaciones de complementos"
 
 msgctxt "#31140"
 msgid "Enable Weather Alerts Notifications"
-msgstr "Activar notificaciones de alertas meteorológicas"
+msgstr "Habilitar notificaciones de alertas meteorológicas"
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
@@ -420,7 +420,7 @@ msgstr "Necesario Add-on"
 
 msgctxt "#31143"
 msgid "Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires script.tv.show.next.aired)[/COLOR]"
-msgstr "Activar NextAired y Guía TV para Series [COLOR=55white](Necesario script.tv.show.next.aired)[/COLOR]"
+msgstr "Habilitar proxima emisión y guía para Series TV[COLOR=55white](Necesario script.tv.show.next.aired)[/COLOR]"
 
 msgctxt "#31144"
 msgid "Autosave"
@@ -428,7 +428,7 @@ msgstr "Autoguardado"
 
 # msgctxt "#31144"
 # msgid "Enable Music Theme on TV Shows [COLOR=55white](Requires TV Tunes Add-on)[/COLOR]"
-# msgstr "Activar melodía de Serie [COLOR=55white](Necesario TV Tunes)[/COLOR]"
+# msgstr "Habiltar melodía para Series TV[COLOR=55white](Necesario complemento TV Tunes)[/COLOR]"
 
 msgctxt "#31145"
 msgid "Download Extra Art"
@@ -436,11 +436,11 @@ msgstr "Descargar Arte Extra"
 
 # msgctxt "#31145"
 # msgid "Download music themes for all TV Shows"
-# msgstr "Descarga tema de todas las Series"
+# msgstr "Descargar melodía para todas las Series TV"
 
 msgctxt "#31146"
 msgid "Download logo.png for all TV Shows"
-msgstr "Descarga [COLOR=selected]logo.png[/COLOR] para todas las Series TV"
+msgstr "Descargar [COLOR=selected]logo.png[/COLOR] para todas las Series TV"
 
 msgctxt "#31147"
 msgid "Download clearart.png for all TV Shows"
@@ -484,11 +484,11 @@ msgstr "Descargar [COLOR=selected]poster.jpg[/COLOR] para todas las Películas"
 
 msgctxt "#31156"
 msgid "Manage Video Views"
-msgstr "Administrar vista de video"
+msgstr "Gestionar vistas de video"
 
 msgctxt "#31157"
 msgid "Manage Music Views"
-msgstr "Administrar vista de Música"
+msgstr "Gestionar vistas de Música"
 
 msgctxt "#31158"
 msgid "Views"
@@ -498,7 +498,7 @@ msgstr "Vistas"
 
 # msgctxt "#31159"
 # msgid "Show FullScreenInfo instead of the SeekBar"
-# msgstr "Mostrar Info a pantalla completa en lugar de la barra de búsqueda"
+# msgstr "Mostrar Información a pantalla completa en lugar de barra de reproducción"
 
 msgctxt "#31160"
 msgid "Download [COLOR=selected]logo.png[/COLOR] for all Movies"
@@ -506,11 +506,11 @@ msgstr "Descargar [COLOR=selected]logo.png[/COLOR] para todas las Películas"
 
 msgctxt "#31161"
 msgid "Hide Home Menu Extra Info"
-msgstr "Ocultar Info Extra en Menú Principal"
+msgstr "Ocultar Información Extra en Menú de Inicio"
 
 # msgctxt "#31161"
 # msgid "Show Library Totals"
-# msgstr "Mostrar totales de biblioteca"
+# msgstr "Mostrar totales de la biblioteca"
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
@@ -534,11 +534,11 @@ msgstr "Subtítulo local disponible"
 
 msgctxt "#31167"
 msgid "Settings Level:"
-msgstr "Ajustes de Nivel:"
+msgstr "Nivel de configuración:"
 
 msgctxt "#31168"
 msgid "Reset Level"
-msgstr "Resetear Nivel"
+msgstr "Restablecer Nivel"
 
 msgctxt "#31169"
 msgid "Reset Skin"
@@ -556,7 +556,7 @@ msgstr "Actualizar Arte"
 
 msgctxt "#31172"
 msgid "Update Art after Library Update"
-msgstr "Actualizar Arte después Actualizar Biblioteca"
+msgstr "Actualizar arte después actualizar biblioteca"
 
 #empty strings from id 31173 to 31199
 #Scripts labels
@@ -587,7 +587,7 @@ msgstr "Top 250 Películas"
 
 #msgctxt "#31204"
 #msgid "Please check your weather settings"
-#msgstr "Por favor verifica la configuración del clima"
+#msgstr "Por favor compruebe los ajustes para clima"
 
 msgctxt "#31205"
 msgid "My Smartish TV Channels"
@@ -595,7 +595,7 @@ msgstr "Mis Canales TV"
 
 #msgctxt "#31205"
 #msgid "Browse the most recently added movies"
-#msgstr "Ver las Películas añadidas recientemente"
+#msgstr "Ver Películas añadidas recientemente"
 
 msgctxt "#31206"
 msgid "Next Aired TV Shows"
@@ -603,7 +603,7 @@ msgstr "Series TV a continuación"
 
 #msgctxt "#31206"
 #msgid "Browse the most recently added episodes"
-#msgstr "Ver los Episodios añadidos recientemente"
+#msgstr "Ver Episodios añadidos recientemente"
 
 msgctxt "#31207"
 msgid "Widget's Aspect Ratio"
@@ -699,7 +699,7 @@ msgstr "Última canción"
 
 #msgctxt "#31222"
 #msgid "Get TV Tune"
-#msgstr "Obtener tema"
+#msgstr "Obtener melodía"
 
 msgctxt "#31223"
 msgid "36 Hour Forecast"
