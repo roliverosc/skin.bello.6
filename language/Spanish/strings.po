@@ -619,7 +619,7 @@ msgstr "Auto-Ocultar todos los Widgets"
 
 #msgctxt "#31208"
 #msgid "Browse all movies in progress"
-#msgstr "Ver las películas en progreso"
+#msgstr "Ver las Películas en progreso"
 
 msgctxt "#31209"
 msgid "Use submenu as widget"
@@ -627,7 +627,7 @@ msgstr "Usar submenú como Widget"
 
 #msgctxt "#31209"
 #msgid "Browse all shows in progress"
-#msgstr "Ver las Series en progreso"
+#msgstr "Ver las Series TV en progreso"
 
 msgctxt "#31210"
 msgid "Recent"
@@ -643,7 +643,7 @@ msgstr "Últimas Películas"
 
 #msgctxt "#31211"
 #msgid "Browse all movies in your library"
-#msgstr "Ver todas las películas de la librería"
+#msgstr "Ver todas las Películas de la librería"
 
 msgctxt "#31212"
 msgid "Latest Episode"
@@ -795,7 +795,7 @@ msgstr "Películas añadidas recientemente"
 
 msgctxt "#31242"
 msgid "Recently Added TV Shows"
-msgstr "Series añadidas recientemente"
+msgstr "Series TV añadidas recientemente"
 
 msgctxt "#31243"
 msgid "Recently Added Music"
@@ -851,7 +851,7 @@ msgstr "Películas populares"
 
 #msgctxt "#31251"
 #msgid "All TV Shows"
-#msgstr "Todas las Series"
+#msgstr "Todas las Series TV"
 
 msgctxt "#31252"
 msgid "Popular  TV Shows"
@@ -871,7 +871,7 @@ msgstr "Buscar en YouTube"
 
 msgctxt "#31255"
 msgid "RSS Video Feeds"
-msgstr "RSS Feeds de video"
+msgstr "Feeds RSS de video"
 
 msgctxt "#31256"
 msgid "In Cinemas Now"
@@ -883,7 +883,7 @@ msgstr "Películas en tendencia"
 
 msgctxt "#31258"
 msgid "Trending  TV Shows"
-msgstr "Series de TV en tendencia"
+msgstr "Series TV en tendencia"
 
 msgctxt "#31259"
 msgid "Top Artists"
@@ -1033,7 +1033,7 @@ msgstr "Personalizar fondo"
 
 msgctxt "#31307"
 msgid "Enable Visualization"
-msgstr "Activar visualización"
+msgstr "Habilitar visualización"
 
 msgctxt "#31308"
 msgid "Visualization Type"
@@ -1041,19 +1041,19 @@ msgstr "Tipo de visualización"
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr "Presets de visualización"
+msgstr "Presets para visualización"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr "Ajustes de visualización"
+msgstr "Ajustes para visualización"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
-msgstr "Activar Presentación de Fanart en Música"
+msgstr "Habilitar presentación de Fanart de Música"
 
 msgctxt "#31312"
 msgid "Enable Artist SlideShow"
-msgstr "Activar Presentación de Intérpretes"
+msgstr "Habilitar presentación de Intérpretes (Artist SlideShow)"
 
 msgctxt "#31313"
 msgid "Animated Backgrounds"
@@ -1073,7 +1073,7 @@ msgstr "Reproduciendo"
 
 msgctxt "#31317"
 msgid "Continue watching ?"
-msgstr "¿Continuar viendo?"
+msgstr "¿Continuar viendo ?"
 
 msgctxt "#31318"
 msgid "Next Episode will start in..."
@@ -1097,7 +1097,7 @@ msgstr ""
 
 msgctxt "#31323"
 msgid "CPU usage"
-msgstr "Uso CPU"
+msgstr ""
 
 msgctxt "#31324"
 msgid "Cache level"
@@ -1135,19 +1135,19 @@ msgstr "Mostrar Grupo"
 
 msgctxt "#31370"
 msgid "Update Video Library"
-msgstr "Actualizar Libreria de Video"
+msgstr "Actualizar biblioteca de Video"
 
 msgctxt "#31371"
 msgid "Update Music Library"
-msgstr "Actualizar Libreria de Música"
+msgstr "Actualizar biblioteca de Música"
 
 msgctxt "#31372"
 msgid "Clean Video Library"
-msgstr "Limpiar Libreria de Video"
+msgstr "Limpiar biblioteca de Video"
 
 msgctxt "#31373"
 msgid "Clean Music Library"
-msgstr "Limpiar Libreria de Musica"
+msgstr "Limpiar biblioteca de Música"
 
 msgctxt "#31374"
 msgid "Quick Navigation"
@@ -1155,7 +1155,7 @@ msgstr "Navegación Rápida"
 
 msgctxt "#31375"
 msgid "Disable Quick Navigation"
-msgstr "Desactivar Navegación Rápida"
+msgstr "Deshabilitar Navegación Rápida"
 
 msgctxt "#31378"
 msgid "Custom Item"
@@ -1179,7 +1179,7 @@ msgstr "Buscar en Add-ons"
 
 msgctxt "#31384"
 msgid "Search YouTube"
-msgstr "Buscar em YouTube"
+msgstr "Buscar en YouTube"
 
 msgctxt "#31385"
 msgid "Search TheMovieDB"
@@ -1190,7 +1190,7 @@ msgstr "Buscar en TheMovieDB"
 
 msgctxt "#31409"
 msgid "Choose from a variety of settings and customization options to make \"Bello\" fit your needs and taste."
-msgstr "Elija entre una variedad de configuraciones y opciones de personalización para que \ "Bello \" se ajuste a sus necesidades y gusto."
+msgstr "Elija entre una variedad de configuraciones y opciones de personalización para que \"Bello\" se ajuste a sus necesidades y gusto."
 
 msgctxt "#31410"
 msgid "With Kodi you can have several profiles and the auto login option if the login screen is disabled."
@@ -1241,7 +1241,7 @@ msgstr "Configurar Opciones de Skin"
 #Help Messages
 msgctxt "#31431"
 msgid "You haven't added any items to Favorites yet.[CR]Highlight an item, and choose \"Add to favorites\" from the context menu."
-msgstr "Usted no ha añadido ningún artículo a Favoritos todavía.[CR]Resalte un elemento y seleccione \"Añadir a favoritos\" en el menú contextual."
+msgstr "Usted no ha añadido ningún elemento a Favoritos todavía.[CR]Resalte un elemento y seleccione \"Añadir a favoritos\" en el menú contextual."
 
 msgctxt "#31432"
 msgid "Mouse usage is not supported.[CR]Please disable it from Settings>System>Input Devices>[CR]\"Enable mouse and Touch Screen support\"."
