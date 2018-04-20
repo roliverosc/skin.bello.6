@@ -955,7 +955,7 @@ msgstr "Series TV más vistas"
 
 msgctxt "#31276"
 msgid "Most Anticipated TV Shows"
-msgstr "Series TV más esperada"
+msgstr "Series TV más esperadas"
 
 msgctxt "#31277"
 msgid "Most Watched Movies"
@@ -1001,7 +1001,7 @@ msgstr "Playlist Actual"
 
 msgctxt "#31285"
 msgid "Playlist Options"
-msgstr "Opciones de lista de reproducción"
+msgstr "Opciones Playlist"
 
 msgctxt "#31300"
 msgid "Muted"
