@@ -183,6 +183,7 @@ msgstr "¡Bienvenido a Bello!"
 msgctxt "#31043"
 msgid "Thank you for using Bello!"
 msgstr "¡Gracias por usar Bello!"
+
 msgctxt "#31044"
 msgid "Starting"
 msgstr "Comenzando"
@@ -209,7 +210,7 @@ msgstr "Reiniciando"
 
 msgctxt "#31050"
 msgid "Logging off"
-msgstr "Cerrar sesión"
+msgstr "Cerrando sesión"
 
 
 #empty strings from id 31051 to 31079
