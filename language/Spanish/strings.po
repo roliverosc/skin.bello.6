@@ -16,6 +16,8 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#Misc labels
+
 msgctxt "#31000"
 msgid "Live TV"
 msgstr "TV en directo"
@@ -54,11 +56,11 @@ msgstr "Apagado automático en"
 
 msgctxt "#31009"
 msgid "Context Menu"
-msgstr "Menú Contextual"
+msgstr "Menú contextual"
 
 msgctxt "#31010"
-msgid "-"
-msgstr "-"
+msgid "Customize Home Menu"
+msgstr "Personalizar Menú de Inicio"
 
 msgctxt "#31011"
 msgid "On"
@@ -68,29 +70,47 @@ msgctxt "#31012"
 msgid "Off"
 msgstr "Desactivado"
 
+# msgctxt "#31013"
+# msgid "Enable Home Menu Animation"
+# msgstr "Habilitar animación de menú de inicio"
+
 msgctxt "#31013"
-msgid "Enable Home Menu Animation"
-msgstr "Habilitar animación de menú de inicio"
+msgid "Home Menu"
+msgstr "Menú de Inicio"
+
+#empty strings from id 31014 to 31015
 
 msgctxt "#31016"
 msgid "File Manager"
 msgstr "Explorador"
 
 msgctxt "#31017"
-msgid "Karaoke Song Selector"
-msgstr "Selector de canción de karaoke"
+msgid "Not Installed or Disabled"
+msgstr "No instalado o desactivado"
+
+# msgctxt "#31017"
+# msgid "Karaoke Song Selector"
+# msgstr "Selector de canción de karaoke"
 
 msgctxt "#31018"
 msgid "Trailers"
 msgstr ""
 
+# msgctxt "#31019"
+# msgid "Search for movies directed by"
+# msgstr "Buscar películas dirigidas por"
+
 msgctxt "#31019"
-msgid "Search for movies directed by"
-msgstr "Buscar películas dirigidas por"
+msgid "Movies directed by"
+msgstr "Películas dirigidas por"
+
+# msgctxt "#31020"
+# msgid "Found"
+# msgstr "Encontrados"
 
 msgctxt "#31020"
-msgid "Found"
-msgstr "Encontrados"
+msgid "Movies written by"
+msgstr "Películas escritas por"
 
 msgctxt "#31021"
 msgid "Music Library"
@@ -102,15 +122,15 @@ msgstr "Archivos de música"
 
 msgctxt "#31023"
 msgid "Info"
-msgstr "Info"
+msgstr ""
 
 msgctxt "#31024"
 msgid "of"
 msgstr "de"
 
 msgctxt "#31025"
-msgid "Items"
-msgstr "Elementos"
+msgid "Item"
+msgstr "Elemento"
 
 msgctxt "#31026"
 msgid "Scrolling..."
@@ -148,9 +168,11 @@ msgctxt "#31034"
 msgid "Teletext"
 msgstr "Teletexto"
 
-msgctxt "#31035"
-msgid "REC"
-msgstr "GRABAR"
+#empty string id 31035
+
+# msgctxt "#31035"
+# msgid "REC"
+# msgstr "GRABAR"
 
 msgctxt "#31036"
 msgid "Close"
@@ -242,10 +264,10 @@ msgstr "Miniaturas"
 
 msgctxt "#31086"
 msgid "Banner List"
-msgstr "Lista de banners"
+msgstr "Lista de Banners"
 
 msgctxt "#31087"
-msgid "VideoWall Fanart"
+msgid "VideoWall"
 msgstr ""
 
 msgctxt "#31088"
@@ -258,7 +280,7 @@ msgstr ""
 
 msgctxt "#31090"
 msgid "Tiles"
-msgstr "Títulos"
+msgstr "Azulejos"
 
 #Skin Settings labels
 msgctxt "#31091"
@@ -274,16 +296,16 @@ msgid "Quick Navigation Widgets"
 msgstr "Widget de Navegación Rápida"
 
 msgctxt "#31094"
-msgid "Movies Widget"
-msgstr "Widget para Películas"
+msgid "Movies Widgets"
+msgstr "Widgets para Películas"
 
 msgctxt "#31095"
-msgid "TV Shows Widget"
-msgstr "Widget para Series TV"
+msgid "TV Shows Widgets"
+msgstr "Widgets para Series TV"
 
 msgctxt "#31096"
-msgid "Music Widget"
-msgstr "Widget para Música"
+msgid "Music Widgets"
+msgstr "Widgets para Música"
 
 msgctxt "#31097"
 msgid "RSS Video Feed Widget"
@@ -303,11 +325,11 @@ msgstr "Luz para Miniaturas"
 
 msgctxt "#31101"
 msgid "Enable Autocompletion on K/B [COLOR=55white](Requires plugin.program.autocompletion)[/COLOR]"
-msgstr "Habilitar autocompletado para teclado K/B [COLOR=55white](Requiere plugin.program.autocompletion)[/COLOR]"
+msgstr "Habilitar autocompletado para teclado [COLOR=55white](Requiere plugin.program.autocompletion)[/COLOR]"
 
-msgctxt "#31101"
-msgid "Show Weather Info"
-msgstr "Mostrar información meteorológica"
+# msgctxt "#31101"
+# msgid "Show Weather Info"
+# msgstr "Mostrar información meteorológica"
 
 msgctxt "#31102"
 msgid "Hide Now Playing Video Info"
@@ -327,7 +349,7 @@ msgstr "Estilo para video a pantalla completa"
 
 msgctxt "#31106"
 msgid "SeekBar Style"
-msgstr "Estilo barra de progreso"
+msgstr "Estilo para barra de progreso"
 
 msgctxt "#31107"
 msgid "Simple"
@@ -413,7 +435,7 @@ msgstr "Habilitar notificaciones de alertas meteorológicas"
 
 msgctxt "#31141"
 msgid "Lyrics Add-on"
-msgstr "Add-on de Letras"
+msgstr "Add-on para Letras"
 
 msgctxt "#31142"
 msgid "Required Add-on"
@@ -421,7 +443,7 @@ msgstr "Necesario Add-on"
 
 msgctxt "#31143"
 msgid "Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires script.tv.show.next.aired)[/COLOR]"
-msgstr "Habilitar proxima emisión y guía para Series TV[COLOR=55white](Necesario script.tv.show.next.aired)[/COLOR]"
+msgstr "Habilitar Info de NextAired y Guía TV para Series TV [COLOR=55white](Necesario script.tv.show.next.aired)[/COLOR]"
 
 msgctxt "#31144"
 msgid "Autosave"
@@ -485,11 +507,11 @@ msgstr "Descargar [COLOR=selected]poster.jpg[/COLOR] para todas las Películas"
 
 msgctxt "#31156"
 msgid "Manage Video Views"
-msgstr "Gestionar vistas de video"
+msgstr "Gestionar vistas para video"
 
 msgctxt "#31157"
 msgid "Manage Music Views"
-msgstr "Gestionar vistas de Música"
+msgstr "Gestionar vistas para Música"
 
 msgctxt "#31158"
 msgid "Views"
@@ -497,21 +519,13 @@ msgstr "Vistas"
 
 #empty string id 31159
 
-# msgctxt "#31159"
-# msgid "Show FullScreenInfo instead of the SeekBar"
-# msgstr "Mostrar Información a pantalla completa en lugar de barra de reproducción"
-
 msgctxt "#31160"
-msgid "Download [COLOR=selected]logo.png[/COLOR] for all Movies"
+msgid "Download logo.png for all Movies"
 msgstr "Descargar [COLOR=selected]logo.png[/COLOR] para todas las Películas"
 
 msgctxt "#31161"
 msgid "Hide Home Menu Extra Info"
 msgstr "Ocultar Información Extra en Menú de Inicio"
-
-# msgctxt "#31161"
-# msgid "Show Library Totals"
-# msgstr "Mostrar totales de la biblioteca"
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
@@ -547,10 +561,6 @@ msgstr "Reiniciar Skin"
 
 #empty string id 31170
 
-msgctxt "#31170"
-msgid "All Skin Settings will revert back to their default state.[CR]Are you sure you want to proceed ?"
-msgstr "Todos los ajustes de la piel volverán a su estado predeterminado.[CR]¿Está seguro que desea continuar?"
-
 msgctxt "#31171"
 msgid "Update Art"
 msgstr "Actualizar Arte"
@@ -578,89 +588,45 @@ msgctxt "#31203"
 msgid "HD Movies"
 msgstr "Películas HD"
 
-#msgctxt "#31203"
-#msgid "New Search"
-#msgstr "Nueva Búsqueda"
-
 msgctxt "#31204"
 msgid "Top 250 Movies"
 msgstr "Top 250 Películas"
-
-#msgctxt "#31204"
-#msgid "Please check your weather settings"
-#msgstr "Por favor compruebe los ajustes para clima"
 
 msgctxt "#31205"
 msgid "My Smartish TV Channels"
 msgstr "Mis Canales TV"
 
-#msgctxt "#31205"
-#msgid "Browse the most recently added movies"
-#msgstr "Ver Películas añadidas recientemente"
-
 msgctxt "#31206"
 msgid "Next Aired TV Shows"
 msgstr "Series TV a continuación"
-
-#msgctxt "#31206"
-#msgid "Browse the most recently added episodes"
-#msgstr "Ver Episodios añadidos recientemente"
 
 msgctxt "#31207"
 msgid "Widget's Aspect Ratio"
 msgstr "Relación de Aspecto para widget"
 
-#msgctxt "#31207"
-#msgid "Browse the most recently added albums"
-#msgstr "Ver los Álbums añadidos recientemente"
-
 msgctxt "#31208"
 msgid "Auto-Hide all Widgets"
 msgstr "Auto-Ocultar todos los Widgets"
-
-#msgctxt "#31208"
-#msgid "Browse all movies in progress"
-#msgstr "Ver las Películas en progreso"
 
 msgctxt "#31209"
 msgid "Use submenu as widget"
 msgstr "Usar submenú como Widget"
 
-#msgctxt "#31209"
-#msgid "Browse all shows in progress"
-#msgstr "Ver las Series TV en progreso"
-
 msgctxt "#31210"
 msgid "Recent"
 msgstr "Recientes"
-
-#msgctxt "#31210"
-#msgid "Browse all music in progress"
-#msgstr "Ver la Música en progreso"
 
 msgctxt "#31211"
 msgid "Latest Movie"
 msgstr "Últimas Películas"
 
-#msgctxt "#31211"
-#msgid "Browse all movies in your library"
-#msgstr "Ver todas las Películas de la librería"
-
 msgctxt "#31212"
 msgid "Latest Episode"
 msgstr "Últimos Episodios"
 
-#msgctxt "#31212"
-#msgid "Browse all shows in your library"
-#msgstr "Ver todas las Series de la librería"
-
 msgctxt "#31213"
 msgid "Latest Album"
-msgstr "Últimos Álbum"
-
-#msgctxt "#31213"
-#msgid "Browse all music in your library"
-#msgstr "Ver toda la Música de la librería"
+msgstr "Últimos Álbumes"
 
 msgctxt "#31214"
 msgid "Airing"
@@ -692,15 +658,11 @@ msgstr "Información Extra"
 
 msgctxt "#31221"
 msgid "Get Extra Art"
-msgstr "Obtener arte extra"
+msgstr "Obtener Arte Extra"
 
 msgctxt "#31222"
 msgid "Latest Song"
 msgstr "Última canción"
-
-#msgctxt "#31222"
-#msgid "Get TV Tune"
-#msgstr "Obtener melodía"
 
 msgctxt "#31223"
 msgid "36 Hour Forecast"
@@ -746,10 +708,6 @@ msgctxt "#31233"
 msgid "Location"
 msgstr "Ubicación"
 
-#msgctxt "#31233"
-#msgid "Chance of Precipitation"
-#msgstr "Probabilidad de precipitación"
-
 msgctxt "#31234"
 msgid "View"
 msgstr "Vista"
@@ -762,33 +720,21 @@ msgctxt "#31236"
 msgid "Cloudiness"
 msgstr "Nubosidad"
 
-#msgctxt "#31236"
-#msgid "Forecast"
-#msgstr "Pronóstico"
-
 msgctxt "#31237"
 msgid "Popular People"
 msgstr "Gente Popular"
 
-#msgctxt "#31237"
-#msgid "View"
-#msgstr "Vista"
-
 msgctxt "#31238"
 msgid "No Shows Airing Today[CR]Press LEFT to select another day"
-msgstr "No se muestra la transmisión para hoy[CR]Presionar IZQUIERDA para seleccionar otro día"
-
-#msgctxt "#31238"
-#msgid "No Shows Airing Today"
-#msgstr "No se emiten series hoy"
+msgstr "No hay Series en emisión hoy[CR]Presionar IZQUIERDA para seleccionar otro día"
 
 msgctxt "#31239"
 msgid "Shows Listed"
-msgstr "Programas listados"
+msgstr "Listado Programas"
 
 msgctxt "#31240"
 msgid "Shows Airing Today"
-msgstr "Programas emitidos hoy"
+msgstr "Mostrar emitidos hoy"
 
 msgctxt "#31241"
 msgid "Recently Added Movies"
@@ -806,25 +752,13 @@ msgctxt "#31244"
 msgid "Kids Movies"
 msgstr "Películas Infantiles"
 
-#msgctxt "#31244"
-#msgid "New Movies"
-#msgstr "Películas Nuevas"
-
 msgctxt "#31245"
 msgid "Kids TV Shows"
 msgstr "Series TV Infantiles"
 
-#msgctxt "#31245"
-#msgid "New TV Shows"
-#msgstr "Series TV nuevas"
-
 msgctxt "#31246"
 msgid "TV Shows Airing Today"
 msgstr "Series TV en emisión hoy"
-
-#msgctxt "#31246"
-#msgid "New Music"
-#msgstr "Música Nueva"
 
 msgctxt "#31247"
 msgid "Random Movies"
@@ -842,29 +776,17 @@ msgctxt "#31250"
 msgid "Coming Soon"
 msgstr "Próximamente"
 
-#msgctxt "#31250"
-#msgid "All Movies"
-#msgstr "Todas las Películas"
-
 msgctxt "#31251"
 msgid "Popular Movies"
 msgstr "Películas populares"
-
-#msgctxt "#31251"
-#msgid "All TV Shows"
-#msgstr "Todas las Series TV"
 
 msgctxt "#31252"
 msgid "Popular  TV Shows"
 msgstr "Series TV populares"
 
-#msgctxt "#31252"
-#msgid "All Music"
-#msgstr "Toda la Música"
-
 msgctxt "#31253"
 msgid "Add YouTube UserID and Title"
-msgstr "Añadir Usuario YouTube y Título"
+msgstr "Añadir ID Usuario YouTube y Título"
 
 msgctxt "#31254"
 msgid "Search on YouTube"
@@ -872,7 +794,7 @@ msgstr "Buscar en YouTube"
 
 msgctxt "#31255"
 msgid "RSS Video Feeds"
-msgstr "Feeds RSS de video"
+msgstr "Feeds RSS para video"
 
 msgctxt "#31256"
 msgid "In Cinemas Now"
@@ -920,7 +842,7 @@ msgstr "Películas mejor valoradas"
 
 msgctxt "#31267"
 msgid "Top Rated  TV Shows"
-msgstr "Series TV mejor valoradas"
+msgstr "Series TV  mejor valoradas"
 
 msgctxt "#31268"
 msgid "Near Concerts"
@@ -974,35 +896,11 @@ msgctxt "#31280"
 msgid "Most Popular Movies"
 msgstr "Películas más populares"
 
-#msgctxt "#31280"
-#msgid "Open Playlist"
-#msgstr "Abrir Playlist"
-
 #empty strings from id 31281 to 31285
 
 
 #empty strings from id 31286 to 31299
 #Video and Music OSD Labels
-
-msgctxt "#31281"
-msgid "Save Playlist"
-msgstr "Guardar Playlist"
-
-msgctxt "#31282"
-msgid "Close Playlist"
-msgstr "Cerrar Playlist"
-
-msgctxt "#31283"
-msgid "System Music Files"
-msgstr "Archivos de Música del sistema"
-
-msgctxt "#31284"
-msgid "Current Playlist"
-msgstr "Playlist Actual"
-
-msgctxt "#31285"
-msgid "Playlist Options"
-msgstr "Opciones Playlist"
 
 msgctxt "#31300"
 msgid "Muted"
@@ -1050,11 +948,11 @@ msgstr "Ajustes para visualización"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
-msgstr "Habilitar presentación de Fanart de Música"
+msgstr "Habilitar presentación de diapositivas de Música (Fanart SlideShow)"
 
 msgctxt "#31312"
 msgid "Enable Artist SlideShow"
-msgstr "Habilitar presentación de Intérpretes (Artist SlideShow)"
+msgstr "Habilitar presentación de diapositivas de Intérpretes (Artist SlideShow)"
 
 msgctxt "#31313"
 msgid "Animated Backgrounds"
@@ -1168,11 +1066,11 @@ msgstr "Actualizar Info IMDb [COLOR=55white](Necesario script.imdbupdate)[/COLOR
 
 msgctxt "#31381"
 msgid "Search Video Library"
-msgstr "Buscar en la biblioteca de video"
+msgstr "Buscar en biblioteca de Video"
 
 msgctxt "#31382"
 msgid "Search Music Library"
-msgstr "Buscar en la biblioteca de música"
+msgstr "Buscar en biblioteca de Música"
 
 msgctxt "#31383"
 msgid "Search Add-ons"
@@ -1189,9 +1087,10 @@ msgstr "Buscar en TheMovieDB"
 #empty strings from id 31386 to 31408
 
 
+#Settings Category Description & Header Labels
 msgctxt "#31409"
 msgid "Choose from a variety of settings and customization options to make \"Bello\" fit your needs and taste."
-msgstr "Elija entre una variedad de configuraciones y opciones de personalización para que \"Bello\" se ajuste a sus necesidades y gusto."
+msgstr "Escoja entre una gran variedad de configuraciones y opciones de personalización para que \"Bello\" se ajuste a sus necesidades y gustos."
 
 msgctxt "#31410"
 msgid "With Kodi you can have several profiles and the auto login option if the login screen is disabled."
@@ -1199,45 +1098,45 @@ msgstr "Con Kodi puede tener varios perfiles y la opción de inicio de sesión a
 
 #empty strings from id 31411 to 31430
 
-msgctxt "#31411"
-msgid "Configure Appearance Settings"
-msgstr "Configurar Opciones de Apariencia"
+# msgctxt "#31411"
+# msgid "Configure Appearance Settings"
+# msgstr "Configurar Opciones de Apariencia"
 
-msgctxt "#31412"
-msgid "Configure Video Settings"
-msgstr "Configurar Opciones de Video"
+# msgctxt "#31412"
+# msgid "Configure Video Settings"
+# msgstr "Configurar Opciones de Video"
 
-msgctxt "#31413"
-msgid "Configure Live TV Settings"
-msgstr "Configurar Opciones de TV en Directo"
+# msgctxt "#31413"
+# msgid "Configure Live TV Settings"
+# msgstr "Configurar Opciones de TV en Directo"
 
-msgctxt "#31414"
-msgid "Configure Music Settings"
-msgstr "Configurar Opciones de Música"
+# msgctxt "#31414"
+# msgid "Configure Music Settings"
+# msgstr "Configurar Opciones de Música"
 
-msgctxt "#31415"
-msgid "Configure Pictures Settings"
-msgstr "Configurar Opciones de Imágenes"
+# msgctxt "#31415"
+# msgid "Configure Pictures Settings"
+# msgstr "Configurar Opciones de Imágenes"
 
-msgctxt "#31416"
-msgid "Configure Weather Settings"
-msgstr "Configurar Opciones para Clima"
+# msgctxt "#31416"
+# msgid "Configure Weather Settings"
+# msgstr "Configurar Opciones para Clima"
 
-msgctxt "#31417"
-msgid "Configure Services Settings"
-msgstr "Configurar Opciones de Servicios"
+# msgctxt "#31417"
+# msgid "Configure Services Settings"
+# msgstr "Configurar Opciones de Servicios"
 
-msgctxt "#31418"
-msgid "Configure System Settings"
-msgstr "Configurar Opciones del Sistema"
+# msgctxt "#31418"
+# msgid "Configure System Settings"
+# msgstr "Configurar Opciones del Sistema"
 
-msgctxt "#31419"
-msgid "Configure Profiles Settings"
-msgstr "Configurar Opciones de Perfil"
+# msgctxt "#31419"
+# msgid "Configure Profiles Settings"
+# msgstr "Configurar Opciones de Perfil"
 
-msgctxt "#31420"
-msgid "Configure Skin Settings"
-msgstr "Configurar Opciones de Skin"
+# msgctxt "#31420"
+# msgid "Configure Skin Settings"
+# msgstr "Configurar Opciones de Skin"
 
 #Help Messages
 msgctxt "#31431"
@@ -1246,4 +1145,8 @@ msgstr "Usted no ha añadido ningún elemento a Favoritos todavía.[CR]Resalte u
 
 msgctxt "#31432"
 msgid "Mouse usage is not supported.[CR]Please disable it from Settings>System>Input Devices>[CR]\"Enable mouse and Touch Screen support\"."
-msgstr "El uso del mouse no es compatible.[CR]Deshabilítelo en Configuración>Sistema>Dispositivos de entrada>[CR]\"Habilitar mouse y compatibilidad con pantalla táctil\"."
+msgstr "El uso del mouse no esta soportado.[CR]Por favor deshabilítelo en Configuración>Sistema>Dispositivos de entrada>[CR]\"Habilitar mouse y compatibilidad con pantalla táctil\"."
+
+msgctxt "#31433"
+msgid "All Skin Settings will revert back to their default state.[CR]Are you sure you want to proceed ?"
+msgstr "Todos los ajustes del Skin volverán a su estado predeterminado.[CR]¿Esta seguro que quiere continuar ?"
