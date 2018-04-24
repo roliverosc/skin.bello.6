@@ -70,10 +70,6 @@ msgctxt "#31012"
 msgid "Off"
 msgstr "Desactivado"
 
-# msgctxt "#31013"
-# msgid "Enable Home Menu Animation"
-# msgstr "Habilitar animación de menú de inicio"
-
 msgctxt "#31013"
 msgid "Home Menu"
 msgstr "Menú de Inicio"
@@ -88,25 +84,13 @@ msgctxt "#31017"
 msgid "Not Installed or Disabled"
 msgstr "No instalado o desactivado"
 
-# msgctxt "#31017"
-# msgid "Karaoke Song Selector"
-# msgstr "Selector de canción de karaoke"
-
 msgctxt "#31018"
 msgid "Trailers"
 msgstr ""
 
-# msgctxt "#31019"
-# msgid "Search for movies directed by"
-# msgstr "Buscar películas dirigidas por"
-
 msgctxt "#31019"
 msgid "Movies directed by"
 msgstr "Películas dirigidas por"
-
-# msgctxt "#31020"
-# msgid "Found"
-# msgstr "Encontrados"
 
 msgctxt "#31020"
 msgid "Movies written by"
@@ -169,10 +153,6 @@ msgid "Teletext"
 msgstr "Teletexto"
 
 #empty string id 31035
-
-# msgctxt "#31035"
-# msgid "REC"
-# msgstr "GRABAR"
 
 msgctxt "#31036"
 msgid "Close"
@@ -327,10 +307,6 @@ msgctxt "#31101"
 msgid "Enable Autocompletion on K/B [COLOR=55white](Requires plugin.program.autocompletion)[/COLOR]"
 msgstr "Habilitar autocompletado para teclado [COLOR=55white](Requiere plugin.program.autocompletion)[/COLOR]"
 
-# msgctxt "#31101"
-# msgid "Show Weather Info"
-# msgstr "Mostrar información meteorológica"
-
 msgctxt "#31102"
 msgid "Hide Now Playing Video Info"
 msgstr "Ocultar información de vídeo en reproducción"
@@ -375,19 +351,19 @@ msgstr "Editar información"
 
 msgctxt "#31126"
 msgid "Textures Colours"
-msgstr "Colores Texturas"
+msgstr "Color para focus"
 
 msgctxt "#31127"
 msgid "Text Colours"
-msgstr "Colores Texto"
+msgstr "Color para textos"
 
 msgctxt "#31128"
 msgid "Background Colours"
-msgstr "Colores de Fondo"
+msgstr "Color para fondo"
 
 msgctxt "#31129"
 msgid "Reset All Colours to Default"
-msgstr "Restablecer todos los colores a por defecto"
+msgstr "Restablecer colores a valores por defecto"
 
 msgctxt "#31130"
 msgid "Disable Fanart in all sections"
@@ -427,7 +403,7 @@ msgstr "Extra Art [COLOR=55white](Necesario script.artwork.downloader)[/COLOR]"
 
 msgctxt "#31139"
 msgid "Enable Add-ons Notifications"
-msgstr "Habilitar notificaciones de complementos"
+msgstr "Habilitar notificaciones de Add-ons"
 
 msgctxt "#31140"
 msgid "Enable Weather Alerts Notifications"
@@ -449,17 +425,9 @@ msgctxt "#31144"
 msgid "Autosave"
 msgstr "Autoguardado"
 
-# msgctxt "#31144"
-# msgid "Enable Music Theme on TV Shows [COLOR=55white](Requires TV Tunes Add-on)[/COLOR]"
-# msgstr "Habiltar melodía para Series TV[COLOR=55white](Necesario complemento TV Tunes)[/COLOR]"
-
 msgctxt "#31145"
 msgid "Download Extra Art"
 msgstr "Descargar Arte Extra"
-
-# msgctxt "#31145"
-# msgid "Download music themes for all TV Shows"
-# msgstr "Descargar melodía para todas las Series TV"
 
 msgctxt "#31146"
 msgid "Download logo.png for all TV Shows"
@@ -496,10 +464,6 @@ msgstr "Activar pantalla de inicio de sesión"
 msgctxt "#31154"
 msgid "Skin Helper Widgets"
 msgstr ""
-
-# msgctxt "#31154"
-# msgid "Choose Trailers Add-on"
-# msgstr "Elija Complemento de Trailers"
 
 msgctxt "#31155"
 msgid "Download poster.jpg for all Movies"
@@ -567,7 +531,7 @@ msgstr "Actualizar Arte"
 
 msgctxt "#31172"
 msgid "Update Art after Library Update"
-msgstr "Actualizar arte después actualizar biblioteca"
+msgstr "Actualizar Arte después actualizar biblioteca"
 
 #empty strings from id 31173 to 31199
 #Scripts labels
@@ -598,7 +562,7 @@ msgstr "Mis Canales TV"
 
 msgctxt "#31206"
 msgid "Next Aired TV Shows"
-msgstr "Series TV a continuación"
+msgstr "Series TV proximamente"
 
 msgctxt "#31207"
 msgid "Widget's Aspect Ratio"
@@ -618,15 +582,15 @@ msgstr "Recientes"
 
 msgctxt "#31211"
 msgid "Latest Movie"
-msgstr "Últimas Películas"
+msgstr "Última Película"
 
 msgctxt "#31212"
 msgid "Latest Episode"
-msgstr "Últimos Episodios"
+msgstr "Último Episodio"
 
 msgctxt "#31213"
 msgid "Latest Album"
-msgstr "Últimos Álbumes"
+msgstr "Último Álbum"
 
 msgctxt "#31214"
 msgid "Airing"
@@ -638,7 +602,7 @@ msgstr "Próxima emisión"
 
 msgctxt "#31216"
 msgid "Last Aired"
-msgstr "Último emitido"
+msgstr "Última emisión"
 
 msgctxt "#31217"
 msgid "Wide Thumb"
@@ -706,7 +670,7 @@ msgstr "Humedad mínima"
 
 msgctxt "#31233"
 msgid "Location"
-msgstr "Ubicación"
+msgstr "Localidad"
 
 msgctxt "#31234"
 msgid "View"
@@ -726,15 +690,15 @@ msgstr "Gente Popular"
 
 msgctxt "#31238"
 msgid "No Shows Airing Today[CR]Press LEFT to select another day"
-msgstr "No hay Series en emisión hoy[CR]Presionar IZQUIERDA para seleccionar otro día"
+msgstr "No hay Series TV en emisión hoy[CR]Presionar IZQUIERDA para seleccionar otro día"
 
 msgctxt "#31239"
 msgid "Shows Listed"
-msgstr "Listado Programas"
+msgstr "Listado Series TV"
 
 msgctxt "#31240"
 msgid "Shows Airing Today"
-msgstr "Mostrar emitidos hoy"
+msgstr "Series TV en emisión hoy"
 
 msgctxt "#31241"
 msgid "Recently Added Movies"
@@ -1011,7 +975,7 @@ msgstr "Grupos Disponibles"
 
 msgctxt "#31351"
 msgid "Add Group"
-msgstr "Añdadir Grupo"
+msgstr "Añadir Grupo"
 
 msgctxt "#31352"
 msgid "Rename Group"
@@ -1050,7 +1014,7 @@ msgstr "Limpiar biblioteca de Música"
 
 msgctxt "#31374"
 msgid "Quick Navigation"
-msgstr "Navegación Rápida"
+msgstr "Navegación rápida"
 
 msgctxt "#31375"
 msgid "Disable Quick Navigation"
@@ -1098,54 +1062,14 @@ msgstr "Con Kodi puede tener varios perfiles y la opción de inicio de sesión a
 
 #empty strings from id 31411 to 31430
 
-# msgctxt "#31411"
-# msgid "Configure Appearance Settings"
-# msgstr "Configurar Opciones de Apariencia"
-
-# msgctxt "#31412"
-# msgid "Configure Video Settings"
-# msgstr "Configurar Opciones de Video"
-
-# msgctxt "#31413"
-# msgid "Configure Live TV Settings"
-# msgstr "Configurar Opciones de TV en Directo"
-
-# msgctxt "#31414"
-# msgid "Configure Music Settings"
-# msgstr "Configurar Opciones de Música"
-
-# msgctxt "#31415"
-# msgid "Configure Pictures Settings"
-# msgstr "Configurar Opciones de Imágenes"
-
-# msgctxt "#31416"
-# msgid "Configure Weather Settings"
-# msgstr "Configurar Opciones para Clima"
-
-# msgctxt "#31417"
-# msgid "Configure Services Settings"
-# msgstr "Configurar Opciones de Servicios"
-
-# msgctxt "#31418"
-# msgid "Configure System Settings"
-# msgstr "Configurar Opciones del Sistema"
-
-# msgctxt "#31419"
-# msgid "Configure Profiles Settings"
-# msgstr "Configurar Opciones de Perfil"
-
-# msgctxt "#31420"
-# msgid "Configure Skin Settings"
-# msgstr "Configurar Opciones de Skin"
-
 #Help Messages
 msgctxt "#31431"
 msgid "You haven't added any items to Favorites yet.[CR]Highlight an item, and choose \"Add to favorites\" from the context menu."
 msgstr "Usted no ha añadido ningún elemento a Favoritos todavía.[CR]Resalte un elemento y seleccione \"Añadir a favoritos\" en el menú contextual."
 
 msgctxt "#31432"
-msgid "Mouse usage is not supported.[CR]Please disable it from Settings>System>Input Devices>[CR]\"Enable mouse and Touch Screen support\"."
-msgstr "El uso del mouse no esta soportado.[CR]Por favor deshabilítelo en Configuración>Sistema>Dispositivos de entrada>[CR]\"Habilitar mouse y compatibilidad con pantalla táctil\"."
+msgid "Please check your weather settings."
+msgstr "Por favor compruebe los ajustes para tiempo."
 
 msgctxt "#31433"
 msgid "All Skin Settings will revert back to their default state.[CR]Are you sure you want to proceed ?"
