@@ -505,7 +505,7 @@ msgstr "Presionar ABAJO para mas información"
 
 msgctxt "#31165"
 msgid "Download disc.png for all Movies"
-msgstr "Descargar [COLOR=seleccionar]disc.png[/COLOR] para todas las Películas"
+msgstr "Descargar [COLOR=selected]disc.png[/COLOR] para todas las Películas"
 
 msgctxt "#31166"
 msgid "Local subtitle available"
