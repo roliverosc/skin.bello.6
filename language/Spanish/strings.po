@@ -86,7 +86,7 @@ msgstr "No instalado o desactivado"
 
 msgctxt "#31018"
 msgid "Trailers"
-msgstr ""
+msgstr "Tráilers"
 
 msgctxt "#31019"
 msgid "Movies directed by"
