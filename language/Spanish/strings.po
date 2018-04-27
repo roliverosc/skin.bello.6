@@ -24,7 +24,7 @@ msgstr "TV en directo"
 
 msgctxt "#31001"
 msgid "TV Guide"
-msgstr "Guía de TV"
+msgstr "Guía TV"
 
 msgctxt "#31002"
 msgid "TV Shows"
@@ -333,7 +333,7 @@ msgstr ""
 
 msgctxt "#31108"
 msgid "System Music Files"
-msgstr "Archivos de música de sistema"
+msgstr "Archivos música del sistema"
 
 msgctxt "#31109"
 msgid "Current Playlist"
@@ -351,7 +351,7 @@ msgstr "Editar información"
 
 msgctxt "#31126"
 msgid "Textures Colours"
-msgstr "Color para focus"
+msgstr "Color para texturas"
 
 msgctxt "#31127"
 msgid "Text Colours"
@@ -379,7 +379,7 @@ msgstr "Ocultar video de fondo"
 
 msgctxt "#31133"
 msgid "Custom Global Background"
-msgstr "Personalizar Fondo Global"
+msgstr "Personalizar fondo global"
 
 msgctxt "#31134"
 msgid "Complete"
@@ -419,7 +419,7 @@ msgstr "Necesario Add-on"
 
 msgctxt "#31143"
 msgid "Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires script.tv.show.next.aired)[/COLOR]"
-msgstr "Habilitar Info de NextAired y Guía TV para Series TV [COLOR=55white](Necesario script.tv.show.next.aired)[/COLOR]"
+msgstr "Habilitar Info NextAired y Guía TV para Series TV [COLOR=55white](Necesario script.tv.show.next.aired)[/COLOR]"
 
 msgctxt "#31144"
 msgid "Autosave"
