@@ -260,7 +260,7 @@ msgstr ""
 
 msgctxt "#31090"
 msgid "Tiles"
-msgstr "Azulejos"
+msgstr "Mosaicos"
 
 #Skin Settings labels
 msgctxt "#31091"
