@@ -1014,7 +1014,7 @@ msgstr "Limpiar biblioteca de Música"
 
 msgctxt "#31374"
 msgid "Quick Navigation"
-msgstr "Navegación rápida"
+msgstr "Navegación Rápida"
 
 msgctxt "#31375"
 msgid "Disable Quick Navigation"
