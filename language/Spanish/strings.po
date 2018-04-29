@@ -762,7 +762,7 @@ msgstr "Feeds RSS para video"
 
 msgctxt "#31256"
 msgid "In Cinemas Now"
-msgstr "En Cines Ahora"
+msgstr "Ahora en Cines"
 
 msgctxt "#31257"
 msgid "Trending Movies"
