@@ -920,7 +920,7 @@ msgstr "Habilitar presentación de diapositivas de Intérpretes (Artist SlideSho
 
 msgctxt "#31313"
 msgid "Animated Backgrounds"
-msgstr "Fondos animados"
+msgstr "Habilitar Animación para Fondos"
 
 msgctxt "#31314"
 msgid "Hide Diffuse Colors"
