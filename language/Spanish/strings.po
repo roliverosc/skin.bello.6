@@ -118,11 +118,11 @@ msgstr "Elemento"
 
 msgctxt "#31026"
 msgid "Scrolling..."
-msgstr "Desplazando..."
+msgstr "Desplazamiento..."
 
 msgctxt "#31027"
 msgid "Memory Used:"
-msgstr "Memoria Usada:"
+msgstr ""
 
 msgctxt "#31028"
 msgid "Move Left"
@@ -188,7 +188,7 @@ msgstr "¡Gracias por usar Bello!"
 
 msgctxt "#31044"
 msgid "Starting"
-msgstr "Comenzando"
+msgstr "Iniciando"
 
 msgctxt "#31045"
 msgid "Exiting"
@@ -228,11 +228,11 @@ msgstr "Galería"
 
 msgctxt "#31082"
 msgid "3D Wall"
-msgstr "Muro 3D"
+msgstr "Mural 3D"
 
 msgctxt "#31083"
 msgid "Wall"
-msgstr "Muro"
+msgstr "Mural"
 
 msgctxt "#31084"
 msgid "Posters"
@@ -252,7 +252,7 @@ msgstr ""
 
 msgctxt "#31088"
 msgid "List Wall"
-msgstr "Muro de Listas"
+msgstr "Lista Mural"
 
 msgctxt "#31089"
 msgid "Showtime"
@@ -260,7 +260,7 @@ msgstr ""
 
 msgctxt "#31090"
 msgid "Tiles"
-msgstr "Mosaicos"
+msgstr "Azulejos"
 
 #Skin Settings labels
 msgctxt "#31091"
