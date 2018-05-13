@@ -118,7 +118,7 @@ msgstr "Elemento"
 
 msgctxt "#31026"
 msgid "Scrolling..."
-msgstr "Desplazamiento..."
+msgstr "Desplazando..."
 
 msgctxt "#31027"
 msgid "Memory Used:"
@@ -244,7 +244,7 @@ msgstr "Miniaturas"
 
 msgctxt "#31086"
 msgid "Banner List"
-msgstr "Lista de Banners"
+msgstr "Lista Banners"
 
 msgctxt "#31087"
 msgid "VideoWall"
@@ -305,7 +305,7 @@ msgstr "Luz para Miniaturas"
 
 msgctxt "#31101"
 msgid "Enable Autocompletion on K/B [COLOR=55white](Requires plugin.program.autocompletion)[/COLOR]"
-msgstr "Habilitar autocompletado para teclado [COLOR=55white](Requiere plugin.program.autocompletion)[/COLOR]"
+msgstr "Habilitar autocompletado para teclado [COLOR=55white](Necesario plugin.program.autocompletion)[/COLOR]"
 
 msgctxt "#31102"
 msgid "Hide Now Playing Video Info"
@@ -355,7 +355,7 @@ msgstr "Color para texturas"
 
 msgctxt "#31127"
 msgid "Text Colours"
-msgstr "Color para textos"
+msgstr "Color para texto"
 
 msgctxt "#31128"
 msgid "Background Colours"
@@ -419,7 +419,7 @@ msgstr "Necesario Add-on"
 
 msgctxt "#31143"
 msgid "Enable NextAired Info & TV Guide for TV Shows [COLOR=55white](Requires script.tv.show.next.aired)[/COLOR]"
-msgstr "Habilitar Info NextAired y Guía TV para Series TV [COLOR=55white](Necesario script.tv.show.next.aired)[/COLOR]"
+msgstr "Habilitar NextAired Info y Guía TV para Series TV [COLOR=55white](Necesario script.tv.show.next.aired)[/COLOR]"
 
 msgctxt "#31144"
 msgid "Autosave"
@@ -489,7 +489,7 @@ msgstr "Descargar [COLOR=selected]logo.png[/COLOR] para todas las Películas"
 
 msgctxt "#31161"
 msgid "Hide Home Menu Extra Info"
-msgstr "Ocultar Información Extra en Menú de Inicio"
+msgstr "Ocultar Info Extra en Menú de Inicio"
 
 msgctxt "#31162"
 msgid "Enable Kiosk Mode"
@@ -570,7 +570,7 @@ msgstr "Relación de Aspecto para widget"
 
 msgctxt "#31208"
 msgid "Auto-Hide all Widgets"
-msgstr "Auto-Ocultar todos los Widgets"
+msgstr "Auto-ocultar todos los Widgets"
 
 msgctxt "#31209"
 msgid "Use submenu as widget"
@@ -594,11 +594,11 @@ msgstr "Último Álbum"
 
 msgctxt "#31214"
 msgid "Airing"
-msgstr "Emitida"
+msgstr "En emisión
 
 msgctxt "#31215"
 msgid "Next Airs"
-msgstr "Próxima emisión"
+msgstr "Próximas emisiones"
 
 msgctxt "#31216"
 msgid "Last Aired"
@@ -806,7 +806,7 @@ msgstr "Películas mejor valoradas"
 
 msgctxt "#31267"
 msgid "Top Rated  TV Shows"
-msgstr "Series TV  mejor valoradas"
+msgstr "Series TV mejor valoradas"
 
 msgctxt "#31268"
 msgid "Near Concerts"
@@ -896,39 +896,39 @@ msgstr "Personalizar fondo"
 
 msgctxt "#31307"
 msgid "Enable Visualization"
-msgstr "Habilitar visualización"
+msgstr "Habilitar Visualización"
 
 msgctxt "#31308"
 msgid "Visualization Type"
-msgstr "Tipo de visualización"
+msgstr "Tipo de Visualización"
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr "Presets para visualización"
+msgstr "Presets para Visualización"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr "Ajustes para visualización"
+msgstr "Ajustes para Visualización"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
-msgstr "Habilitar presentación de diapositivas de Música (Fanart SlideShow)"
+msgstr "Habilitar SlideShow de Fanart de Música"
 
 msgctxt "#31312"
 msgid "Enable Artist SlideShow"
-msgstr "Habilitar presentación de diapositivas de Intérpretes (Artist SlideShow)"
+msgstr "Habilitar SlideShow del Artista"
 
 msgctxt "#31313"
 msgid "Animated Backgrounds"
-msgstr "Habilitar Animación para Fondos"
+msgstr "Habilitar Fondo Animado"
 
 msgctxt "#31314"
 msgid "Hide Diffuse Colors"
-msgstr "Ocultar colores difusos"
+msgstr "Ocultar Colores Difusos"
 
 msgctxt "#31315"
 msgid "Hide Scrolling Titles"
-msgstr "Ocultar títulos en desplazamiento"
+msgstr "Ocultar Títulos en Desplazamiento"
 
 msgctxt "#31316"
 msgid "Now Playing"
@@ -940,7 +940,7 @@ msgstr "¿Continuar viendo ?"
 
 msgctxt "#31318"
 msgid "Next Episode will start in..."
-msgstr "El próximo episodio comenzará en..."
+msgstr "El Próximo Episodio comenzará en..."
 
 msgctxt "#31319"
 msgid "Still watching ?"
@@ -971,7 +971,7 @@ msgstr ""
 
 msgctxt "#31350"
 msgid "Available Groups"
-msgstr "Grupos Disponibles"
+msgstr "Grupos disponibles"
 
 msgctxt "#31351"
 msgid "Add Group"
@@ -1065,12 +1065,12 @@ msgstr "Con Kodi puede tener varios perfiles y la opción de inicio de sesión a
 #Help Messages
 msgctxt "#31431"
 msgid "You haven't added any items to Favorites yet.[CR]Highlight an item, and choose \"Add to favorites\" from the context menu."
-msgstr "Usted no ha añadido ningún elemento a Favoritos todavía.[CR]Resalte un elemento y seleccione \"Añadir a favoritos\" en el menú contextual."
+msgstr "No ha añadido ningún elemento a Favoritos todavía.[CR]Resalte un elemento y seleccione \"Añadir a favoritos\" en el menú contextual."
 
 msgctxt "#31432"
 msgid "Please check your weather settings."
-msgstr "Por favor compruebe los ajustes para tiempo."
+msgstr "Por favor, revise los ajustes para tiempo."
 
 msgctxt "#31433"
 msgid "All Skin Settings will revert back to their default state.[CR]Are you sure you want to proceed ?"
-msgstr "Todos los ajustes del Skin volverán a su estado predeterminado.[CR]¿Esta seguro que quiere continuar ?"
+msgstr "Todos los ajustes del Skin volverán a su estado predeterminado.[CR]¿Está seguro que quiere continuar?"
