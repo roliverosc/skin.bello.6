@@ -896,19 +896,19 @@ msgstr "Personalizar fondo"
 
 msgctxt "#31307"
 msgid "Enable Visualization"
-msgstr "Habilitar Visualización"
+msgstr "Habilitar visualización"
 
 msgctxt "#31308"
 msgid "Visualization Type"
-msgstr "Tipo de Visualización"
+msgstr "Tipo de visualización"
 
 msgctxt "#31309"
 msgid "Visualization Presets"
-msgstr "Presets para Visualización"
+msgstr "Presets para visualización"
 
 msgctxt "#31310"
 msgid "Visualization Settings"
-msgstr "Ajustes para Visualización"
+msgstr "Ajustes para visualización"
 
 msgctxt "#31311"
 msgid "Enable Music Fanart SlideShow"
@@ -920,15 +920,15 @@ msgstr "Habilitar SlideShow del Artista"
 
 msgctxt "#31313"
 msgid "Animated Backgrounds"
-msgstr "Habilitar Fondo Animado"
+msgstr "Habilitar fondo animado"
 
 msgctxt "#31314"
 msgid "Hide Diffuse Colors"
-msgstr "Ocultar Colores Difusos"
+msgstr "Ocultar colores difusos"
 
 msgctxt "#31315"
 msgid "Hide Scrolling Titles"
-msgstr "Ocultar Títulos en Desplazamiento"
+msgstr "Ocultar títulos en desplazamiento"
 
 msgctxt "#31316"
 msgid "Now Playing"
