@@ -566,7 +566,7 @@ msgstr "Series TV proximamente"
 
 msgctxt "#31207"
 msgid "Widget's Aspect Ratio"
-msgstr "Relación de Aspecto para widget"
+msgstr "Relación de Aspecto para Widget"
 
 msgctxt "#31208"
 msgid "Auto-Hide all Widgets"
@@ -734,7 +734,7 @@ msgstr "Series TV aleatorias"
 
 msgctxt "#31249"
 msgid "Random Music"
-msgstr "Música al Azar"
+msgstr "Música aleatoria"
 
 msgctxt "#31250"
 msgid "Coming Soon"
@@ -830,7 +830,7 @@ msgstr "Murio:"
 
 msgctxt "#31273"
 msgid "Photos"
-msgstr "Fotografías"
+msgstr "Fotos"
 
 msgctxt "#31274"
 msgid "Critics Consensus"
